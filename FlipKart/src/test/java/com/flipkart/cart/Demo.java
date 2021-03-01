@@ -8,8 +8,7 @@ public class Demo {
 	@Test
 	public void testMethod()
 	{
-		
-		//Raghav
+		//Grooming ppl
 		Reporter.log("Demo Running Succesffully",true);
 	}
 }
